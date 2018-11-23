@@ -13,5 +13,4 @@ def drink(a=0,b=0,c=0):
 		buybottle=int(unwaterbottle/3)  #  buy water
 		leaveunwbottle=unwaterbottle%3   
 		return drink(buybottle,unwaterbottle%3,c+drinkafter)
- 
 print([drink(b=a) for a in range(1,81)])
