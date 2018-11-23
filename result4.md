@@ -1,0 +1,22 @@
+i: 1 j: 0 s[i] 2 s[j] 1 True True
+i: 2 j: 0 s[i] 2 s[j] 1 True True
+i: 2 j: 1 s[i] 3 s[j] 2 True True
+i: 3 j: 0 s[i] 2 s[j] 1 True True
+i: 3 j: 1 s[i] 2 s[j] 2 False True
+i: 3 j: 2 s[i] 2 s[j] 3 False True
+i: 4 j: 0 s[i] 2 s[j] 1 True True
+i: 4 j: 1 s[i] 3 s[j] 2 True True
+i: 4 j: 2 s[i] 4 s[j] 3 True True
+i: 4 j: 3 s[i] 4 s[j] 2 True True
+i: 5 j: 0 s[i] 2 s[j] 1 True True
+i: 5 j: 1 s[i] 2 s[j] 2 False True
+i: 5 j: 2 s[i] 2 s[j] 3 False True
+i: 5 j: 3 s[i] 2 s[j] 2 False True
+i: 5 j: 4 s[i] 2 s[j] 4 False True
+i: 6 j: 0 s[i] 2 s[j] 1 True True
+i: 6 j: 1 s[i] 3 s[j] 2 True True
+i: 6 j: 2 s[i] 4 s[j] 3 True True
+i: 6 j: 3 s[i] 4 s[j] 2 True True
+i: 6 j: 4 s[i] 5 s[j] 4 True True
+i: 6 j: 5 s[i] 5 s[j] 2 True True
+the max lenght subqueue: 5  and it is  [1, 9, 10, 11, 13]
